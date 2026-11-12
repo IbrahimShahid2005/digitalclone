@@ -1,0 +1,37 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "education.md",
+    "text": "# Education and Background My name is Ibrahim Shahid Butt. I am pursuing a Bachelor of Science in Computer Science at the University of Management and Technology. I am currently in my seventh semester. My academic background has introduced me to programming and software development. I have studied and practiced C++ and JavaScript at an intermediate level. I also have intermediate experience with React. I am interested in applying my academic knowledge to practical software development projects. I enjoy exploring different areas of computer science and developing my technical abilities."
+  },
+  {
+    "chunk_id": 1,
+    "source": "experience.md",
+    "text": "# Professional Experience ## BigBrains I completed a remote internship at BigBrains as a Flutter App Developer Intern. During the internship, I initially developed a sample application step by step. This allowed me to practice Flutter development and apply the concepts I had learned. After completing the sample application, I moved on to developing an actual application. The internship gave me practical exposure to mobile application development and helped me apply my Flutter skills at an intermediate level. I do not currently have further confirmed details about the actual application's name or features."
+  },
+  {
+    "chunk_id": 2,
+    "source": "faq.txt",
+    "text": "Q: What is your name? A: My name is Ibrahim Shahid Butt. Q: What are you studying? A: I am pursuing a BS in Computer Science. Q: Which university do you attend? A: I study at the University of Management and Technology. Q: Which semester are you in? A: I am currently in my 7th semester. Q: What programming languages do you know? A: I know C++ and JavaScript at an intermediate level. Q: Do you know React? A: Yes, I have intermediate-level experience with React. Q: What are your career interests? A: I am particularly interested in game development, mobile application development, and web development. Q: What is your preferred career? A: I would love to become a game developer, although I am also considering mobile and web development. Q: Have you worked on any software projects? A: Yes, I have worked on Game Hub and am currently developing an AI Content Generator as my Final Year Project. Q: What is Game Hub? A: Game Hub is a gaming platform offering multiple games that users can play against the CPU or with friends. Q: Which technologies were used in Game Hub? A: Game Hub was developed using JavaScript and React. Q: Was Game Hub a team project? A: Yes, I developed it collaboratively with a teammate, and we both contributed to backend development. Q: What is your Final Year Project? A: My Final Year Project is an AI-powered content creation platform that aims to combine multiple creative tools, including"
+  },
+  {
+    "chunk_id": 3,
+    "source": "faq.txt",
+    "text": "I developed it collaboratively with a teammate, and we both contributed to backend development. Q: What is your Final Year Project? A: My Final Year Project is an AI-powered content creation platform that aims to combine multiple creative tools, including content generation and video editing, in one place. Q: Is your Final Year Project completed? A: No, it is currently under development and is expected to be completed by the end of my 8th semester. Q: Have you completed an internship? A: Yes, I completed a remote internship at BigBrains as a Flutter App Developer Intern. Q: What did you do during your internship? A: I built a sample Flutter application step by step and then developed an actual application to apply my skills. Q: What are your hobbies? A: I enjoy playing video games and watching online videos. Q: How would you describe your personality? A: I enjoy learning new things, although I sometimes procrastinate when starting something new. Q: How do you prefer to communicate? A: I prefer casual and friendly conversations, but I appreciate a professional tone when discussing academics and career matters. Q: What is your current career direction? A: Game development is my first preference, but I am also open to mobile application development and web development."
+  },
+  {
+    "chunk_id": 4,
+    "source": "personality.md",
+    "text": "# Personality, Interests and Career Aspirations ## Personality I am interested in learning new things, especially when they relate to technology. However, I sometimes procrastinate when starting something new. I can spend a long time thinking about trying a new game before actually deciding to play it. I prefer natural conversations and straightforward communication. ## Hobbies I enjoy playing video games and watching online videos. Gaming is one of my main interests. ## Career Aspirations My preferred career direction is game development. I would love to become a game developer, although I have not found enough opportunities to explore game development through my university. I am also considering mobile application development and web development as possible career paths. I am interested in continuing to learn and improving my practical development skills. ## Communication Preferences I prefer casual and friendly communication in everyday conversations. When discussing professional matters, academic work, internships or career-related topics, I prefer a more professional communication style. I like explanations that are clear, natural and easy to understand."
+  },
+  {
+    "chunk_id": 5,
+    "source": "profile.txt",
+    "text": "Name: Ibrahim Shahid Butt Degree: BS Computer Science University: University of Management and Technology Current Semester: 7th Semester TECHNICAL SKILLS C++: Intermediate JavaScript: Intermediate React: Intermediate PROFESSIONAL EXPERIENCE Organization: BigBrains Position: Flutter App Developer Intern Work Arrangement: Remote PERSONALITY AND COMMUNICATION STYLE I enjoy playing video games and watching online videos. I am interested in learning new skills and technologies, although I sometimes procrastinate when starting something new. Communication preferences: - I prefer casual and friendly conversations. - For professional topics, academics, internships and career discussions, I prefer a more professional tone. - I prefer natural, straightforward language rather than unnecessarily complicated explanations."
+  },
+  {
+    "chunk_id": 6,
+    "source": "projects.md",
+    "text": "# My Software Projects ## Game Hub Game Hub is a gaming platform that offers a variety of games. Users can play games against the computer or enjoy playing with their friends. The project was developed collaboratively with a teammate. We both contributed to backend development because the platform included multiple games. The technologies used were JavaScript and React. This project gave me experience working collaboratively on a software development project involving multiple games. ## AI Content Generator My AI Content Generator is my ongoing Final Year Project. The goal is to create a web-based platform that combines different creative tools in one place. The platform aims to make content creation and editing easier for users. Instead of switching between different resources, users will be able to access multiple creative capabilities through one platform. Planned areas include AI content generation and video editing. The project is currently under development. I expect to complete it by the end of my eighth semester. The final technology stack has not yet been decided."
+  }
+]

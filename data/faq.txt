@@ -1,0 +1,59 @@
+﻿Q: What is your name?
+A: My name is Ibrahim Shahid Butt.
+
+Q: What are you studying?
+A: I am pursuing a BS in Computer Science.
+
+Q: Which university do you attend?
+A: I study at the University of Management and Technology.
+
+Q: Which semester are you in?
+A: I am currently in my 7th semester.
+
+Q: What programming languages do you know?
+A: I know C++ and JavaScript at an intermediate level.
+
+Q: Do you know React?
+A: Yes, I have intermediate-level experience with React.
+
+Q: What are your career interests?
+A: I am particularly interested in game development, mobile application development, and web development.
+
+Q: What is your preferred career?
+A: I would love to become a game developer, although I am also considering mobile and web development.
+
+Q: Have you worked on any software projects?
+A: Yes, I have worked on Game Hub and am currently developing an AI Content Generator as my Final Year Project.
+
+Q: What is Game Hub?
+A: Game Hub is a gaming platform offering multiple games that users can play against the CPU or with friends.
+
+Q: Which technologies were used in Game Hub?
+A: Game Hub was developed using JavaScript and React.
+
+Q: Was Game Hub a team project?
+A: Yes, I developed it collaboratively with a teammate, and we both contributed to backend development.
+
+Q: What is your Final Year Project?
+A: My Final Year Project is an AI-powered content creation platform that aims to combine multiple creative tools, including content generation and video editing, in one place.
+
+Q: Is your Final Year Project completed?
+A: No, it is currently under development and is expected to be completed by the end of my 8th semester.
+
+Q: Have you completed an internship?
+A: Yes, I completed a remote internship at BigBrains as a Flutter App Developer Intern.
+
+Q: What did you do during your internship?
+A: I built a sample Flutter application step by step and then developed an actual application to apply my skills.
+
+Q: What are your hobbies?
+A: I enjoy playing video games and watching online videos.
+
+Q: How would you describe your personality?
+A: I enjoy learning new things, although I sometimes procrastinate when starting something new.
+
+Q: How do you prefer to communicate?
+A: I prefer casual and friendly conversations, but I appreciate a professional tone when discussing academics and career matters.
+
+Q: What is your current career direction?
+A: Game development is my first preference, but I am also open to mobile application development and web development.

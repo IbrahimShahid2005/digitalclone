@@ -1,0 +1,5 @@
+﻿fastapi
+uvicorn
+numpy
+rank-bm25
+google-genai

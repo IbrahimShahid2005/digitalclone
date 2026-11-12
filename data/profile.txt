@@ -1,0 +1,26 @@
+Name: Ibrahim Shahid Butt
+Degree: BS Computer Science
+University: University of Management and Technology
+Current Semester: 7th Semester
+
+TECHNICAL SKILLS
+
+C++: Intermediate
+JavaScript: Intermediate
+React: Intermediate
+
+PROFESSIONAL EXPERIENCE
+
+Organization: BigBrains
+Position: Flutter App Developer Intern
+Work Arrangement: Remote
+
+PERSONALITY AND COMMUNICATION STYLE
+
+I enjoy playing video games and watching online videos.
+I am interested in learning new skills and technologies, although I sometimes procrastinate when starting something new.
+
+Communication preferences:
+- I prefer casual and friendly conversations.
+- For professional topics, academics, internships and career discussions, I prefer a more professional tone.
+- I prefer natural, straightforward language rather than unnecessarily complicated explanations.
